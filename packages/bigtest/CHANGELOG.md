@@ -1,5 +1,16 @@
 # bigtest
 
+## 0.10.0
+
+### Minor Changes
+
+- a1d66276: Add built in matchers: includes, matches, and, or, not
+
+### Patch Changes
+
+- Updated dependencies [a1d66276]
+  - @bigtest/interactor@0.26.0
+
 ## 0.9.0
 
 ### Minor Changes
